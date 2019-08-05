@@ -9,7 +9,7 @@ code: Fira Code Medium, #EE783F, #8B3D90, #2E59A2, #DF393F, #1EA8D9
 footer: Kotlin Multiplatform **|** @rdbatch02
 build-lists: true
 
-# [fit] Kotlin/Mulitplatform
+# [fit] Kotlin/Multiplatform
 <br>
 ### By: Ryan Batchelder
 #### @rdbatch02
